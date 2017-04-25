@@ -70,3 +70,7 @@ classBtn (string) serve a cambiare la classe di default da applicare al bottone,
 defaultW (int) serve a cambiare la larghezza di default da applicare all'iframe, valore di default: 640
 
 defaultH (int) serve a cambiare l'altezza di default da applicare all'iframe, valore di default: 360
+
+Nell'esempio http://codepen.io/filippoq/pen/QwogWz sono incluse poche righe css che donano un aspetto più gradevole alla modale.
+
+MIT LICENSE
