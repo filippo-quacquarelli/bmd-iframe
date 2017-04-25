@@ -73,4 +73,6 @@ defaultH (int) serve a cambiare l'altezza di default da applicare all'iframe, va
 
 Nell'esempio http://codepen.io/filippoq/pen/QwogWz sono incluse poche righe css che donano un aspetto più gradevole alla modale.
 
+Caricare i contenuti esterni come video di youtube, vimeo, google maps ... all'interno di modali è un'ottimo modo per evitare di appensatire troppo la pagina, infatti nonostante i contenuti di questi widget vengono caricati in asincrono, all'ungano il tempo complessivo di caricamento pagina, rallentano la ui, aumentano il numero di richieste.
+
 MIT LICENSE
